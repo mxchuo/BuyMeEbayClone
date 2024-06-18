@@ -4,9 +4,6 @@
 -IDE used was Eclipse
 -Locally hosted with Apache Tomcat for testing and demonstrations
 
--Key Features Include:
-Autobidding function
-Customer Service Chat
-Browsing and advanced filtering for active auctions
+-Key Features Include: Autobidding function, Customer Service Chat, Browsing and advanced filtering for active auctions
 
 Check it out!
